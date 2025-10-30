@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://github.com/ArthurDEV44/ArthurDEV44/assets/123456789/header-banner.png" alt="ArthurDEV44 - Fullstack Developer" width="100%"/>
+<img src="./assets/images/header-banner.png" alt="ArthurDEV44 - Fullstack Developer" width="100%"/>
 
 </div>
 
-<br>
-
-<h1 align="center">👋 Hello, je m'appel <strong>Arthur Jean</strong> !</h1>
-
 <p align="center">
-  <em>Développeur Fullstack • Passionné par NextJS, Rust, ElectronJS, l'agentique IA et la technologie et l'innovation en général</em>
+  <em>Développeur Fullstack • Expert Next.js, Rust, Electron, Angular & Architecture Agentique IA : systèmes multi-agents, RAG, AST, LLM Engineering, et MCP.</em>
 </p>
 
 <div align="center">
@@ -20,14 +16,6 @@
 [![StriveX](https://img.shields.io/badge/StriveX-strivex.fr-success)](https://strivex.fr)
 
 </div>
-
----
-
-### 🚀 À propos de moi
-
-Expert Next.js, Rust, Electron, Angular & Architecture Agentique IA : systèmes multi-agents, RAG, AST, LLM Engineering, et MCP.
-
----
 
 <div align="center">
 
