@@ -4,26 +4,6 @@
 
 </div>
 
-<p align="center">
-  <em>Développeur Fullstack • Expert Next.js, Rust, Electron, Angular & Architecture Agentique IA : systèmes multi-agents, RAG, AST, LLM Engineering, et MCP.</em>
-</p>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/ArthurDEV44?label=Suivez-moi&style=social)](https://github.com/ArthurDEV44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Jean-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arthur-jean-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arthurjean.com-success)](https://arthurjean.com)
-[![StriveX](https://img.shields.io/badge/StriveX-strivex.fr-success)](https://strivex.fr)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArthurDEV44&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDEV44&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=8B949E&dates=6E7681&hide_border=true&border_radius=8&include_all_commits=true" alt="GitHub Streak" height="180"/>
-
-</div>
-
 ---
 
 ### Stack principale
@@ -90,23 +70,5 @@
 <div align="start">
 
 <img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" style="border-radius: 8px; margin: 2px;"/>
-
-</div>
-
-### Réalisations
-
-<div align="start">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurDEV44&theme=dark&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&rank=SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true&margin-w=15&column=6&exclude=Experience" alt="Trophées GitHub" style="border-radius: 8px;"/>
-
-</div>
-
----
-
-### Activité récente
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurDEV44&bg_color=0D1117&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&radius=8&include_all_commits=true" alt="Activity Graph" width="100%"/>
 
 </div>
