@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="./assets/images/header-banner.png" alt="ArthurDEV44 - Fullstack Developer" width="100%" style="border-radius: 20px;" />
-
-</div>
-
----
-
 ### Stack principale
 
 <div align="start">
