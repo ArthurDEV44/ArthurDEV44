@@ -14,7 +14,7 @@
 <div align="start">
 
 <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/Mistral-FF850B?style=for-the-badge&logo=mistralai&logoColor=black&labelColor=black" alt="Mistral" style="border-radius: 8px; margin: 2px;"/>
+<img src="https://img.shields.io/badge/Mistral-FF850B?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral" style="border-radius: 8px; margin: 2px;"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" style="border-radius: 8px; margin: 2px;"/>
 <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" style="border-radius: 8px; margin: 2px;"/>
 
