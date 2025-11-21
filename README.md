@@ -1,3 +1,4 @@
+### Stack principale
 ### Skills
 
 <div align="start">
@@ -36,5 +37,21 @@
 
 <img src="https://img.shields.io/badge/Claude_Code-d87657?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" style="border-radius: 8px; margin: 2px;"/>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="border-radius: 8px; margin: 2px;"/>
+
+</div>
+
+### Compétences en IA (Agentique, RAG, AST, LLM Engineering, et MCP)
+
+<div align="start">
+
+<img src="https://img.shields.io/badge/Agentique_IA-7C3AED?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Agentique IA" style="border-radius: 8px; margin: 2px;"/>
+
+</div>
+
+### Compétences en Workflow
+
+<div align="start">
+
+<img src="https://img.shields.io/badge/n8n-ea4b71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" style="border-radius: 8px; margin: 2px;"/>
 
 </div>
