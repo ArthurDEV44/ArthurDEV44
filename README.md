@@ -2,10 +2,10 @@
 
 <div align="start">
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/TypeScript-377CC7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" style="border-radius: 8px; margin: 2px;"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="border-radius: 8px; margin: 2px;"/>
+<img src="https://img.shields.io/badge/TypeScript-377CC7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 8px; margin: 2px;"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius: 8px; margin: 2px;"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" style="border-radius: 8px; margin: 2px;"/>
 
 </div>
 
