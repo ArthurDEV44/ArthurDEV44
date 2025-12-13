@@ -34,7 +34,7 @@
 
 <div align="start">
 
-![Claude Code](https://img.shields.io/badge/-Claude_Code-8B5CF6?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 </div>
