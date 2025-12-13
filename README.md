@@ -2,10 +2,10 @@
 
 <div align="start">
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/TypeScript-377CC7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" style="border-radius: 8px; margin: 2px;"/>
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-377CC7?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 <div align="start">
 
-<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/Mistral-FF850B?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" style="border-radius: 8px; margin: 2px;"/>
+![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)
+![Mistral AI](https://img.shields.io/badge/-Mistral_AI-FF850B?style=flat&logo=mistralai&logoColor=white)
+![Open AI](https://img.shields.io/badge/-Open_AI-000000?style=flat&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-Model_Context_Protocol-FFFFFF?style=flat&logo=modelcontextprotocol&logoColor=black)
 
 </div>
 
