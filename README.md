@@ -34,7 +34,7 @@
 
 <div align="start">
 
-<img src="https://img.shields.io/badge/Claude_Code-d87657?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" style="border-radius: 8px; margin: 2px;"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="border-radius: 8px; margin: 2px;"/>
+![Claude Code](https://img.shields.io/badge/-Claude_Code-8B5CF6?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 </div>
