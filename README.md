@@ -13,8 +13,9 @@
 
 <div align="start">
 
-![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)
 ![Mistral AI](https://img.shields.io/badge/-Mistral_AI-FF850B?style=flat&logo=mistralai&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-141C2E?style=flat&logo=huggingface&logoColor=FFD21E)
 ![Open AI](https://img.shields.io/badge/-Open_AI-000000?style=flat&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/-Model_Context_Protocol-FFFFFF?style=flat&logo=modelcontextprotocol&logoColor=black)
 
