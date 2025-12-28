@@ -37,5 +37,6 @@
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/-Antigravity-141C2E?style=flat&logo=antigravity&logoColor=white)
 
 </div>
