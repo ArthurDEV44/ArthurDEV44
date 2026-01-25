@@ -78,7 +78,7 @@ Serveurs MCP, compression TF-IDF, distillation GPT-4, lazy loading
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDEV44&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDEV44&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDEV44&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
