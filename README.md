@@ -27,7 +27,7 @@
 
 ## Architecte Système & AI Builder
 
-> *"Je ne code pas, j'orchestre. Je bâtis des infrastructures."*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=500&lines=Je+ne+code+pas%2C+j'orchestre.;Je+b%C3%A2tis+des+infrastructures." alt="Typing SVG" /></a>
 
 <table>
 <tr>
@@ -82,3 +82,11 @@ Serveurs MCP, compression TF-IDF, distillation GPT-4, lazy loading
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDEV44&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurDEV44/ArthurDEV44/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurDEV44/ArthurDEV44/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ArthurDEV44/ArthurDEV44/output/github-snake.svg" />
+</picture>
