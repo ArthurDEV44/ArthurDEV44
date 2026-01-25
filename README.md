@@ -3,9 +3,11 @@
 <div align="start">
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-377CC7?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white)
 
 </div>
 
@@ -21,22 +23,62 @@
 
 </div>
 
-#### Architecture & Intégration AI
+---
 
-- **🎯 Architecture Multi-Fournisseurs** : Intégration intelligente avec fallback automatique (Ollama → Mistral → OpenAI) pour garantir disponibilité et performance
-- **🏗️ Architecture en Couches** : Domain-Driven Design avec séparation Domain/Application/Infrastructure/Presentation
-- **🤖 IA Conversationnelle** : Interface CLI en langage naturel avec sélection automatique d'outils et support multilingue
-- **🔌 Protocole MCP** : Extension des capacités AI via Model Context Protocol (Linear, GitHub, outils personnalisés)
-- **🧠 Chain of Thought** : Réflexion structurée pour résolution de problèmes complexes
-- **📊 Télémétrie & Optimisation** : Système de monitoring de consommation de tokens et optimisation des performances
-- **⚙️ Configuration Multi-Niveaux** : Gestion intelligente des paramètres (utilisateur/projet) avec priorisation et repli automatique
+## Architecte Système & AI Builder
+
+> *"Je ne code pas, j'orchestre. Je bâtis des infrastructures."*
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Deep Tech**
+
+`Rust` `Go` `WebAssembly`
+
+PagedAttention, cache XXH3, scheduler continu, DAG, rust_decimal
+
+</td>
+<td width="33%" valign="top">
+
+**Cryptographie Post-Quantique**
+
+`ML-DSA-65` `QRNG` `Solana`
+
+Signatures FIPS 204, entropie 256 bits, SHA3-256, circuit breaker
+
+</td>
+<td width="33%" valign="top">
+
+**AI-Native**
+
+`MCP` `AST` `DDD`
+
+Serveurs MCP, compression TF-IDF, distillation GPT-4, lazy loading
+
+</td>
+</tr>
+</table>
+
+---
 
 ### Outils de développement
 
 <div align="start">
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/-Antigravity-141C2E?style=flat&logo=antigravity&logoColor=white)
+![Zed](https://img.shields.io/badge/-Zed-084CCF?style=flat&logo=zedindustries&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDEV44&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDEV44&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
