@@ -1,6 +1,8 @@
-# Salut, moi c'est Arthur 👋
+<div align="right"><a href="README_FR.md">🇫🇷 Français</a></div>
 
-📍 **France** | 🏗️ **Architecte Système & AI Builder** | 🚀 **Founder [StriveX](https://strivex.fr)**
+# Hi, I'm Arthur 👋
+
+📍 **France** | 🏗️ **System Architect & AI Builder** | 🚀 **Founder [StriveX](https://strivex.fr)**
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -14,32 +16,32 @@
 ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 
-> Je ne code pas, j'orchestre. Je bâtis des infrastructures : Rust pour la perf, TypeScript pour la vitesse de fer, LLMs partout où ça compte. Mode vibe-coding activé : prototypes en jours, pas en mois.
+> I don't code, I orchestrate. I build infrastructure: Rust for raw performance, TypeScript for shipping speed, LLMs wherever it counts. Vibe-coding mode on, prototypes in days, not months.
 
-🎯 **[strivex.fr](https://strivex.fr)** · Architecte Système & AI Builder. Je conçois des produits logiciels et IA pensés pour durer. Archi d'abord, exécution rapide mais rigoureuse, pas juste un MVP : l'actif technique qui évolue sans dette inutile.
+🎯 **[strivex.fr](https://strivex.fr)** · System Architect & AI Builder. I design software and AI products built to last. Architecture first, fast but rigorous execution. Not just an MVP : the technical asset that scales without unnecessary debt.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=500&lines=Je+ne+code+pas%2C+j'orchestre.;Je+b%C3%A2tis+des+infrastructures." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=500&lines=I+don%27t+code%2C+I+orchestrate.;I+build+infrastructure+that+lasts." alt="Typing SVG" /></a>
 
-## Projets en cours
+## Active Projects
 
-- 🪟 **[paneflow](https://github.com/ArthurDEV44/paneflow)** · Alternative multiplateforme à Cmux (macOS-only). Multiplexeur de terminal GPU-accéléré (Vulkan/GPUI). Linux ready, macOS/Windows en attente de signatures ([paneflow.dev](https://paneflow.dev/))
-- 🧪 **[distill](https://github.com/ArthurDEV44/distill)** · Optimise tes tokens LLM par context engineering intelligent ([distill-mcp.com](https://distill-mcp.com))
-- 🩺 **[rust-doctor](https://github.com/ArthurDEV44/rust-doctor)** · Outil unifié de santé du code Rust : sécu, perf, dette technique ([rust-doctor.vercel.app](https://rust-doctor.vercel.app/))
-- ⚡ **[velollm](https://github.com/ArthurDEV44/velollm)** · Autopilot pour inférence LLM locale. Zero-config, optimise Ollama, llama.cpp et co.
-- 🔮 **[mistral-trismegistus](https://github.com/ArthurDEV44/mistral-trismegistus)** · Premier LLM open-source francophone spécialisé en savoir ésotérique. Fine-tune Mistral 7B sur Ollama.
-- 🌌 **[quantum-oracle](https://github.com/ArthurDEV44/quantum-oracle)** · Oracle qui génère ses réponses avec de vrais nombres aléatoires quantiques + LLM local. Pas de pseudo-random.
-- 🧠 **[skills](https://github.com/ArthurDEV44/skills)** · Skills Claude Code pour agents de coding. Best practices Rust, audit, frontend, storytelling.
-- 🚀 **[delta-v](https://github.com/ArthurDEV44/delta-v)** · Immersive-sim spatial solo-dev en UE5 / C++. Loop 4 phases : base → launch → orbital → reentry.
-- 🌲 **[northern-forest-terminal](https://github.com/ArthurDEV44/northern-forest-terminal)** · Thème terminal boréal pour Ghostty, Starship et Zsh sur Fedora.
-- 💼 **[portfolio](https://github.com/ArthurDEV44/portfolio)** · Mon portfolio StriveX ([portfolio-strive-x.vercel.app](https://portfolio-strive-x.vercel.app))
+- 🪟 **[paneflow](https://github.com/ArthurDEV44/paneflow)** · Cross-platform alternative to Cmux (macOS-only). GPU-accelerated terminal multiplexer (Vulkan/GPUI). Linux ready, macOS/Windows pending code signatures ([paneflow.dev](https://paneflow.dev/))
+- 🧪 **[distill](https://github.com/ArthurDEV44/distill)** · Optimize your LLM token usage with intelligent context engineering ([distill-mcp.com](https://distill-mcp.com))
+- 🩺 **[rust-doctor](https://github.com/ArthurDEV44/rust-doctor)** · Unified code health tool for Rust : security, performance, technical debt ([rust-doctor.vercel.app](https://rust-doctor.vercel.app/))
+- ⚡ **[velollm](https://github.com/ArthurDEV44/velollm)** · Autopilot for local LLM inference. Zero-config, optimizes Ollama, llama.cpp and more.
+- 🔮 **[mistral-trismegistus](https://github.com/ArthurDEV44/mistral-trismegistus)** · First open-source French-speaking LLM specialized in esoteric and occult knowledge. Mistral 7B fine-tune for Ollama.
+- 🌌 **[quantum-oracle](https://github.com/ArthurDEV44/quantum-oracle)** · Oracle that generates answers using real quantum random numbers + local LLM. No pseudo-random.
+- 🧠 **[skills](https://github.com/ArthurDEV44/skills)** · Claude Code skills for coding agents. Best practices for Rust, audit, frontend, storytelling.
+- 🚀 **[delta-v](https://github.com/ArthurDEV44/delta-v)** · Solo-dev space immersive-sim in UE5 / C++. 4-phase gameplay loop : base → launch → orbital → reentry.
+- 🌲 **[northern-forest-terminal](https://github.com/ArthurDEV44/northern-forest-terminal)** · Boreal-inspired terminal theme for Ghostty, Starship and Zsh on Fedora.
+- 💼 **[portfolio](https://github.com/ArthurDEV44/portfolio)** · StriveX portfolio site ([portfolio-strive-x.vercel.app](https://portfolio-strive-x.vercel.app))
 
-### Closed source / produits
+### Closed source / products
 
-- 🎯 **[StriveX](https://strivex.fr)** · Architecte Système & AI Builder. Produits logiciels et IA pensés pour durer, pas juste un MVP
-- 📚 **OpenBookLM** · Plateforme d'apprentissage AI-native (Rust backend)
-- 📅 **Kronix** · Gestion de projet et d'événements avec visualisation Gantt
-- 📰 **Readflow** · Reading-flow optimisé pour articles longs
-- ⚖️ **NOMOS** · "Legal Operating System" qui transforme le Code civil et fiscal français en code binaire exécutable
+- 🎯 **[StriveX](https://strivex.fr)** · System Architect & AI Builder. Software and AI products built to last, not just an MVP
+- 📚 **OpenBookLM** · AI-native learning platform (Rust backend)
+- 📅 **Kronix** · Project and event management with Gantt visualization
+- 📰 **Readflow** · Reading-flow optimized for long-form articles
+- ⚖️ **NOMOS** · "Legal Operating System" that transforms the French Civil and Tax Code into executable binary code
 - 👗 **DressNight** · 🏔️ **AuSommetDeChezVous** · 🏠 **Delgrès Céramique** · 🌸 **Azuna**
 
 ---
@@ -54,16 +56,16 @@
 
 `Rust` `Go` `WebAssembly` `C++ / UE5`
 
-PagedAttention, cache XXH3, scheduler continu, DAG, rust_decimal
+PagedAttention, XXH3 cache, continuous scheduler, DAG, rust_decimal
 
 </td>
 <td width="33%" valign="top">
 
-**Cryptographie Post-Quantique**
+**Post-Quantum Crypto**
 
 `ML-DSA-65` `QRNG` `Solana`
 
-Signatures FIPS 204, entropie 256 bits, SHA3-256, circuit breaker
+FIPS 204 signatures, 256-bit entropy, SHA3-256, circuit breaker
 
 </td>
 <td width="33%" valign="top">
@@ -72,13 +74,13 @@ Signatures FIPS 204, entropie 256 bits, SHA3-256, circuit breaker
 
 `MCP` `LLM Fine-tuning` `AST` `DDD`
 
-Serveurs MCP, compression TF-IDF, distillation GPT-4, lazy loading, Ollama autopilot
+MCP servers, TF-IDF compression, GPT-4 distillation, lazy loading, Ollama autopilot
 
 </td>
 </tr>
 </table>
 
-### Outils du quotidien
+### Daily tools
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
@@ -97,17 +99,17 @@ Serveurs MCP, compression TF-IDF, distillation GPT-4, lazy loading, Ollama autop
 
 ---
 
-### Philosophie
+### Philosophy
 
-> **"Ship beats perfect."** Je construis des outils pour résoudre mes propres problèmes, puis je les ouvre au monde. Aujourd'hui, c'est l'IA qui change tout dans la manière dont on fait du software. Autant en être l'architecte.
+> **"Ship beats perfect."** I build tools to solve my own problems, then open them to the world. Today, AI changes everything about how we ship software. Might as well be its architect.
 
 <details>
 <summary>Random Facts</summary>
 
-- 3 à 6 instances Claude Code en parallèle, par défaut
-- Stack Linux : Fedora + Ghostty + Zed + Zsh, theme Northern Forest fait maison
-- Bun > npm/pnpm/yarn, partout, tout le temps
-- Tout pipeline Rust passe par `cargo clippy` avant commit (hooks deterministes)
-- Préfère un hook qui force le bon comportement à un commentaire qui le suggère
+- 3 to 6 Claude Code instances running in parallel, by default
+- Linux stack : Fedora + Ghostty + Zed + Zsh, Northern Forest theme handcrafted
+- Bun > npm/pnpm/yarn, everywhere, every time
+- Every Rust pipeline goes through `cargo clippy` before commit (deterministic hooks)
+- Prefers a hook that enforces the right behavior over a comment that suggests it
 
 </details>
