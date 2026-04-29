@@ -33,7 +33,7 @@
 - 🧠 **[skills](https://github.com/ArthurDEV44/skills)** · Claude Code skills for coding agents. Best practices for Rust, audit, frontend, storytelling.
 - 🚀 **[delta-v](https://github.com/ArthurDEV44/delta-v)** · Solo-dev space immersive-sim in UE5 / C++. 4-phase gameplay loop : base → launch → orbital → reentry.
 - 🌲 **[northern-forest-terminal](https://github.com/ArthurDEV44/northern-forest-terminal)** · Boreal-inspired terminal theme for Ghostty, Starship and Zsh on Fedora.
-- 💼 **[portfolio](https://github.com/ArthurDEV44/portfolio)** · StriveX portfolio site ([portfolio-strive-x.vercel.app](https://portfolio-strive-x.vercel.app))
+- 💼 **[portfolio](https://github.com/ArthurDEV44/portfolio)** · StriveX portfolio site ([portfolio-strive-x.vercel.app](https://arthurjean.com/))
 
 ### Closed source / products
 
