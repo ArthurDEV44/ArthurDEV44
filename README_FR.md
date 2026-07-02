@@ -1,46 +1,38 @@
 <div align="right"><a href="README.md">🇬🇧 English</a></div>
 
-# Salut 👋
+# Arthur Jean
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
+![GPUI](https://img.shields.io/badge/-GPUI-111111?style=flat-square&logo=zedindustries&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-FFFFFF?style=flat-square&logo=modelcontextprotocol&logoColor=black)
-![Linux](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=500&lines=Je+ne+code+pas%2C+j'orchestre.;Je+b%C3%A2tis+des+infrastructures." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007AFF&width=500&lines=Je+ne+code+pas%2C+j'orchestre.;Je+b%C3%A2tis+des+infrastructures.;Ship+beats+perfect." alt="Typing SVG" /></a>
+
+Solo Indie Maker. Je construis des dev tools, des workflows d'agents de coding, de l'open source et des produits pour les nouvelles manières de coder.
+
+Je veux que les développeurs restent au centre de la boucle. Les agents peuvent écrire plus de code, mais le goût, l'architecture, le debug, le sens produit et la responsabilité viennent encore des personnes techniques.
 
 ## Projets en cours
 
-- 🪟 **[paneflow](https://github.com/ArthurDEV44/paneflow)** · Alternative multiplateforme à Cmux (macOS-only). Multiplexeur de terminal GPU-accéléré (Vulkan/GPUI). Linux ready, macOS/Windows en attente de signatures ([paneflow.dev](https://paneflow.dev/))
-- 🧪 **[distill](https://github.com/ArthurDEV44/distill)** · Optimise tes tokens LLM par context engineering intelligent ([distill-mcp.com](https://distill-mcp.com))
-- 🩺 **[rust-doctor](https://github.com/ArthurDEV44/rust-doctor)** · Outil unifié de santé du code Rust : sécu, perf, dette technique ([rust-doctor.vercel.app](https://rust-doctor.vercel.app/))
-- ⚡ **[velollm](https://github.com/ArthurDEV44/velollm)** · Autopilot pour inférence LLM locale. Zero-config, optimise Ollama, llama.cpp et co.
-- 🌌 **[quantum-oracle](https://github.com/ArthurDEV44/quantum-oracle)** · Oracle qui génère ses réponses avec de vrais nombres aléatoires quantiques + LLM local. Pas de pseudo-random.
-- 🧠 **[skills](https://github.com/ArthurDEV44/skills)** · Skills Claude Code pour agents de coding. Best practices Rust, audit, frontend, storytelling.
-- 🚀 **[delta-v](https://github.com/ArthurDEV44/delta-v)** · Immersive-sim spatial solo-dev en UE5 / C++. Loop 4 phases : base → launch → orbital → reentry.
-- 🌲 **[northern-forest-terminal](https://github.com/ArthurDEV44/northern-forest-terminal)** · Thème terminal boréal pour Ghostty, Starship et Zsh sur Fedora.
-- 💼 **[portfolio](https://github.com/ArthurDEV44/portfolio)** · Mon portfolio StriveX ([portfolio-strive-x.vercel.app](https://portfolio-strive-x.vercel.app))
-
-### Closed source / produits
-
-- 🎯 **[StriveX](https://strivex.fr)** · Architecte Système & AI Builder. Produits logiciels et IA pensés pour durer, pas juste un MVP
-- 📚 **OpenBookLM** · Plateforme d'apprentissage AI-native (Rust backend)
-- 📅 **Kronix** · Gestion de projet et d'événements avec visualisation Gantt
-- 👗 **DressNight** · 🏔️ **AuSommetDeChezVous** · 🏠 **Delgrès Céramique** · 🌸 **Azuna**
+- <img src="assets/icons/paneflow.png" width="18" height="18" alt="Logo Paneflow" /> **[paneflow](https://github.com/ArthurDEV44/paneflow)** · Workspace local-first Rust/GPUI pour lancer et superviser des agents de coding en parallèle: vrais panes de terminal, statuts live, review worktree et bridge MCP read-only ([paneflow.dev](https://paneflow.dev/))
+- **[kepler-terminal](https://github.com/ArthurDEV44/kepler-terminal)** · Engine terminal moderne en Rust pour Paneflow et les outils dev agentiques: core renderer-agnostic, gros scrollbacks, replay déterministe et embedding propre.
+- **[Numen](https://github.com/ArthurDEV44/numen)** · Agent de coding IA natif Rust qui vit dans ton terminal: core headless model-agnostic, vrais outils, events structurés, pas de runtime Node, pensé pour être embarqué dans Paneflow.
+- <img src="assets/icons/distill-logo.png" width="18" height="18" alt="Logo Distill" /> **[distill](https://github.com/ArthurDEV44/distill)** · Serveur MCP open source qui compresse le contexte à la source: sorties de build, logs, diffs et lectures de fichiers sont distillés avant d'entrer dans la fenêtre de contexte, avec 3 outils toujours chargés ([distill-mcp.com](https://distill-mcp.com))
+- <img src="assets/icons/rust-doctor.webp" width="18" height="18" alt="Logo Rust Doctor" /> **[rust-doctor](https://github.com/ArthurDEV44/rust-doctor)** · Health check en une commande pour projets Rust: clippy, cargo-audit, cargo-deny, cargo-geiger et 19 règles AST maison, ramenés à un score 0-100 avec diagnostics actionnables ([rust-doctor.vercel.app](https://rust-doctor.vercel.app/))
 
 ---
 
 ### Outils du quotidien
 
-![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Paneflow](assets/badges/paneflow.svg)
+![Codex CLI](https://img.shields.io/badge/-Codex_CLI-000000?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPlZLNiylQGMbPRiibOwvFgo0pFoqiWZC6aJrGwkapQUq%2Bv5INknxkLLFQJAs7KVFjJN81payVjaz9G8%2FtHM0wd%2B7mLp7NOe%2FvPe%2F7PIcQQn4RQoyEkN%2F%2FIVpPngghuJVCoYDT6YRWq%2F12%2FpcY%2FXUQiUQwn8%2BRzWaxWq0wHo%2FRarWQy%2BXA5%2FP%2FDSqVSgZxuVw4HA68vb0hFApBr9cjn89jOp3ewhfQYrHgfD7D4%2FEgkUig3W5DJpMhmUyi1%2BtBLpej0WjA7XZfQVowm81QqVTg9XpRLpdRr9ex3%2B%2Bx2%2B2g0%2BnQ7XZxPB4RDAavYDweRywWg9VqRSAQQLFYRL%2Ffh0qlYq9MJhNoNBr4fD6MRiNwOJwLaLfbUa1WcX9%2Fj%2FV6je12C4lEwjqr1Wosl0ssFgtIpVI0m008Pz9fQB6Px7r6%2FX7WmZpCRzUYDAyiO1OZTCYUCgUW1Zc56XSa7UR3MRqNOBwO%2BPj4YJNkMhmEw2HUajXmhVAovILRaBSvr6%2FMyU6nA5fLxZwcDAZ4eXlh7p5OJzw8PHyPQyAQsG6lUglms5kFTsd%2FfHzE3d0dNpsNRCLRJ3QFqWi4qVSK7TccDvH%2B%2Fs4iopDNZruFGPjjr36KxkEjEovFP%2B7%2BANHLWPW4KSVuAAAAAElFTkSuQmCC)
 ![Zed](https://img.shields.io/badge/-Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
-![Ghostty](https://img.shields.io/badge/-Ghostty-1D1D1D?style=flat-square&logo=gnome-terminal&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Bun](assets/badges/bun.svg)
+
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
