@@ -17,11 +17,11 @@ Je veux que les développeurs restent au centre de la boucle. Les agents peuvent
 
 ## Projets en cours
 
-- <img src="assets/icons/paneflow.png" width="18" height="18" alt="Logo Paneflow" /> **[paneflow](https://github.com/ArthurDEV44/paneflow)** · Workspace local-first Rust/GPUI pour lancer et superviser des agents de coding en parallèle: vrais panes de terminal, statuts live, review worktree et bridge MCP read-only ([paneflow.dev](https://paneflow.dev/))
-- **[kepler-terminal](https://github.com/ArthurDEV44/kepler-terminal)** · Engine terminal moderne en Rust pour Paneflow et les outils dev agentiques: core renderer-agnostic, gros scrollbacks, replay déterministe et embedding propre.
-- **[Numen](https://github.com/ArthurDEV44/numen)** · Agent de coding IA natif Rust qui vit dans ton terminal: core headless model-agnostic, vrais outils, events structurés, pas de runtime Node, pensé pour être embarqué dans Paneflow.
-- <img src="assets/icons/distill-logo.png" width="18" height="18" alt="Logo Distill" /> **[distill](https://github.com/ArthurDEV44/distill)** · Serveur MCP open source qui compresse le contexte à la source: sorties de build, logs, diffs et lectures de fichiers sont distillés avant d'entrer dans la fenêtre de contexte, avec 3 outils toujours chargés ([distill-mcp.com](https://distill-mcp.com))
-- <img src="assets/icons/rust-doctor.webp" width="18" height="18" alt="Logo Rust Doctor" /> **[rust-doctor](https://github.com/ArthurDEV44/rust-doctor)** · Health check en une commande pour projets Rust: clippy, cargo-audit, cargo-deny, cargo-geiger et 19 règles AST maison, ramenés à un score 0-100 avec diagnostics actionnables ([rust-doctor.vercel.app](https://rust-doctor.vercel.app/))
+- <img src="assets/icons/paneflow.png" width="18" height="18" alt="Logo Paneflow" /> **[paneflow](https://github.com/arthjean/paneflow)** · Workspace local-first Rust/GPUI pour lancer et superviser des agents de coding en parallèle: vrais panes de terminal, statuts live, review worktree et bridge MCP read-only ([paneflow.dev](https://paneflow.dev/))
+- **[kepler-terminal](https://github.com/arthjean/kepler-terminal)** · Engine terminal moderne en Rust pour Paneflow et les outils dev agentiques: core renderer-agnostic, gros scrollbacks, replay déterministe et embedding propre.
+- **[Numen](https://github.com/arthjean/numen)** · Agent de coding IA natif Rust qui vit dans ton terminal: core headless model-agnostic, vrais outils, events structurés, pas de runtime Node, pensé pour être embarqué dans Paneflow.
+- <img src="assets/icons/distill-logo.png" width="18" height="18" alt="Logo Distill" /> **[distill](https://github.com/arthjean/distill)** · Serveur MCP open source qui compresse le contexte à la source: sorties de build, logs, diffs et lectures de fichiers sont distillés avant d'entrer dans la fenêtre de contexte, avec 3 outils toujours chargés ([distill-mcp.com](https://distill-mcp.com))
+- <img src="assets/icons/rust-doctor.webp" width="18" height="18" alt="Logo Rust Doctor" /> **[rust-doctor](https://github.com/arthjean/rust-doctor)** · Health check en une commande pour projets Rust: clippy, cargo-audit, cargo-deny, cargo-geiger et 19 règles AST maison, ramenés à un score 0-100 avec diagnostics actionnables ([rust-doctor.vercel.app](https://rust-doctor.vercel.app/))
 
 ---
 
