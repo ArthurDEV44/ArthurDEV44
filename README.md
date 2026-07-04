@@ -4,24 +4,27 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
 ![GPUI](https://img.shields.io/badge/-GPUI-111111?style=flat-square&logo=zedindustries&logoColor=white)
+![Tokio](https://img.shields.io/badge/-Tokio-000000?style=flat-square&logo=tokio&logoColor=white)
+![Ratatui](https://img.shields.io/badge/-Ratatui-111111?style=flat-square)
+![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
+![VTE](https://img.shields.io/badge/-VTE-4B5563?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-FFFFFF?style=flat-square&logo=modelcontextprotocol&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-FFFFFF?style=flat-square&logo=modelcontextprotocol&logoColor=black)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007AFF&width=500&lines=I+don%27t+code%2C+I+orchestrate.;I+build+infrastructure+that+lasts.;Ship+beats+perfect." alt="Typing SVG" /></a>
 
-Solo Indie Maker building developer tools, coding agent workflows, open-source software, and products for the new ways of coding.
-
-I care about developers staying at the center of the loop. Agents can write more code, but taste, architecture, debugging, product sense, and responsibility still come from technical people.
+I'm a creator and software engineer based in France. I build tools for developers, software engineers, and AI engineers, with a simple conviction: the way we write software is changing, and our working environments need to change with it.
 
 ## Active Projects
 
-- <img src="assets/icons/paneflow.png" width="18" height="18" alt="Paneflow logo" /> **[paneflow](https://github.com/arthjean/paneflow)** · Local-first Rust/GPUI workspace for running and supervising coding agents in parallel: real terminal panes, live agent state, worktree review, and a read-only MCP bridge ([paneflow.dev](https://paneflow.dev/))
-- **[kepler-terminal](https://github.com/arthjean/kepler-terminal)** · Modern Rust terminal engine for Paneflow and agentic dev tools: renderer-agnostic core, huge scrollbacks, deterministic replay, and clean embedding.
-- **[Numen](https://github.com/arthjean/numen)** · Native Rust AI coding agent that lives in your terminal: model-agnostic headless core, real tools, structured events, no Node runtime, built to embed in Paneflow.
-- <img src="assets/icons/distill-logo.png" width="18" height="18" alt="Distill logo" /> **[distill](https://github.com/arthjean/distill)** · Open-source MCP server that compresses context at the source: build output, logs, diffs, and file reads get distilled before they hit the context window, through 3 always-loaded tools ([distill-mcp.com](https://distill-mcp.com))
-- <img src="assets/icons/rust-doctor.webp" width="18" height="18" alt="Rust Doctor logo" /> **[rust-doctor](https://github.com/arthjean/rust-doctor)** · One-command health check for Rust projects: clippy, cargo-audit, cargo-deny, cargo-geiger, and 19 custom AST rules folded into a 0-100 score with actionable diagnostics ([rust-doctor.vercel.app](https://rust-doctor.vercel.app/))
+- **[Paneflow](https://paneflow.dev)** · Cross-platform GPUI app for parallel coding agents.
+- **[Hera](https://github.com/arthjean/hera-terminal)** · Modern Rust terminal engine for long CLI sessions, huge scrollbacks, deterministic replay, and agentic workflows.
+- **[Pyxis](https://github.com/ArthurDEV44/pyxis)** · Multi-provider Rust CLI for fast agentic coding workflows, designed to connect natively with Paneflow.
+- **[Distill](https://distill-mcp.com)** · Distill is an open-source MCP server that compresses context at the source.
+- **[Rust Doctor](https://rust-doctor.vercel.app)** · The one-command health check for your Rust project. rust-doctor scans for security, performance, correctness, architecture, and dependency issues, then folds everything into a single 0–100 score with diagnostics you can act on.
 
 ---
 
