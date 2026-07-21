@@ -22,7 +22,7 @@ I'm a creator and software engineer based in France. I build tools for developer
 
 - **[Paneflow](https://paneflow.dev)** · Cross-platform GPUI app for parallel coding agents.
 - **[Hera](https://github.com/arthjean/hera-terminal)** · Modern Rust terminal engine for long CLI sessions, huge scrollbacks, deterministic replay, and agentic workflows.
-- **[Pyxis](https://github.com/ArthurDEV44/pyxis)** · Multi-provider Rust CLI for fast agentic coding workflows, designed to connect natively with Paneflow.
+- **[Pyxis](https://github.com/arthjean/pyxis)** · Multi-provider Rust CLI for fast agentic coding workflows, designed to connect natively with Paneflow.
 - **[Distill](https://distill-mcp.com)** · Distill is an open-source MCP server that compresses context at the source.
 - **[Rust Doctor](https://rust-doctor.vercel.app)** · The one-command health check for your Rust project. rust-doctor scans for security, performance, correctness, architecture, and dependency issues, then folds everything into a single 0–100 score with diagnostics you can act on.
 
